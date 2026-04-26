@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h2 align="left">Hi 👋! My name is Mirado and I'm a software engineer, from Madagascar</h2>
 
 ###
@@ -45,10 +48,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MiradoAndreas/MiradoAndreas/output/snake.svg" alt="Snake animation" />
-
-###
